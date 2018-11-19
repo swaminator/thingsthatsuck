@@ -27,9 +27,3 @@ paginate = 5
   twitter = "xaprb"
   classes = []
 
-[outputs]
-  home = ["HTML", "JSON", "RSS"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
