@@ -6,7 +6,6 @@ title = "Things that Suck"
 theme = "story"
 languageCode = "en-us"
 paginate = 5
-buildFuture = true
 
 [[menu.social]]
   name = ""
