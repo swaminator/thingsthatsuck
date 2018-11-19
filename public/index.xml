@@ -1,191 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Story Hugo Theme Demo Site on Hugo Story Theme</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Story Hugo Theme Demo Site on Hugo Story Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+	<channel>
+		<title>Things that Suck </title>
+		<link>/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Baron Schwartz</author>
+		<rights>Copyright (c) 2018</rights>
+		<updated>2018-09-03 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>Bananas</title>
+			<link>/bananas/</link>
+			<pubDate>Mon, 03 Sep 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/bananas/</guid>
+			<description>&lt;p&gt;So disgusting I&amp;rsquo;m not even sure how it qualifies as a fruit. I hate them because:&lt;/p&gt;
 
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+&lt;ul&gt;
+&lt;li&gt;The texture is absolutely awful&lt;/li&gt;
+&lt;li&gt;They go brown and mushy&lt;/li&gt;
+&lt;li&gt;Are often infested with fruit flies&lt;/li&gt;
+&lt;li&gt;I gag when I eat them&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;p&gt;Worst fruit ever &amp;hellip;&lt;/p&gt;
 
-    <item>
-      <title>A Future Talk</title>
-      <link>https://example.com/talks/a-future-talk/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/talks/a-future-talk/</guid>
-      <description>&lt;p&gt;Story&amp;rsquo;s talks pages can highlight upcoming appearances, promoting your talks
-before you present. This is a dummy page illustrating this capability.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ll have to add &lt;code&gt;buildFuture: true&lt;/code&gt; to your site&amp;rsquo;s &lt;code&gt;config.yaml&lt;/code&gt; to enable
-this setting.  Talks pages that are in the future won&amp;rsquo;t appear on the homepage
-or in your RSS feeds; they&amp;rsquo;ll only appear in the &lt;code&gt;/talks/&lt;/code&gt; list page of your
-site.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>The Story Hugo Theme</title>
-      <link>https://example.com/snowpants/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/snowpants/</guid>
-      <description>&lt;p&gt;Story is a beautiful responsive Hugo blog theme with many extra features including presentations, math typesetting, and search.
-It is targeted to technical writers and speakers: people such as software engineers and open source developers, who want a website for their technical work.
-For example, people who blog about their presentations on software engineering.
-It&amp;rsquo;s a great way to share your writing and speaking with the world.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Theme Features</title>
-      <link>https://example.com/snowpants/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/snowpants/</guid>
-      <description>&lt;p&gt;Story has a lot of features, but most are optional and have smart defaults!
-This page is an introduction to Story, with links to further pages that go into
-more details. There&amp;rsquo;s also a listing of features that either don&amp;rsquo;t need
-a separate documentation page, or just don&amp;rsquo;t have full documentation yet.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Feature Flags</title>
-      <link>https://example.com/snowpants/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/snowpants/</guid>
-      <description>&lt;p&gt;Feature flags, which are called &lt;em&gt;classes&lt;/em&gt; in the markup, control many of Story&amp;rsquo;s features.
-You can enable and disable them in your site config, or in an individual post&amp;rsquo;s front matter.
-This article documents Story&amp;rsquo;s feature flags.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Author Profiles</title>
-      <link>https://example.com/snowpants/</link>
-      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/snowpants/</guid>
-      <description>&lt;p&gt;Story supports author profiles, so you can highlight your bio.
-It&amp;rsquo;s possible to set this globally for the entire site, or individually for each
-piece of content. Or you can set a global default and override it on individual
-pieces of content.
-Scroll to the bottom of any page on this site to see how author profiles are
-styled.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Figures, Captions, and Tables</title>
-      <link>https://example.com/snowpants/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/snowpants/</guid>
-      <description>&lt;p&gt;Story can automatically transform images into figures with captions.
-It can also add captions to tables.
-And it adds features and styling to both images and tables.
-This article is a demo of Story&amp;rsquo;s features for figures, tables, and captions.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Image Formatting Controls</title>
-      <link>https://example.com/images/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/images/</guid>
-      <description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s image-related features (other than &lt;a href=&#34;https://example.com/figures&#34;&gt;figure captions&lt;/a&gt;).
-Story can apply a variety of stylistic and layout transformations to your images.
-These features are enabled by unobtrusive, accessibility-friendly tricks that give you more control over images than Markdown typically provides.
-Story also has out-of-the-box support for header and preview images, for a visually stunning site.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s JavaScript Search</title>
-      <link>https://example.com/search-page/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/search-page/</guid>
-      <description>&lt;p&gt;This article documents Story&amp;rsquo;s built-in search features, which don&amp;rsquo;t rely on external search engines.
-Story uses the &lt;a href=&#34;https://lunrjs.com/&#34;&gt;LunrJS&lt;/a&gt; library to provide fast browser-based search.
-This page first explains how search setup works, and then provides copy-paste
-ready code samples for you to use.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Mathematical Equation Typesetting</title>
-      <link>https://example.com/snowpants/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/snowpants/</guid>
-      <description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s ability to typeset mathematical equations,
-both inline and in block form.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s Typography</title>
-      <link>https://example.com/typography/</link>
-      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/typography/</guid>
-      <description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s beautiful typography.&lt;/p&gt;
-
-&lt;p&gt;Story is designed to showcase long-form content such as essays and technical
-blog posts.  It is built for readability and grace in both screen and print
-media at all sizes.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Story&#39;s MailChimp Integration Features</title>
-      <link>https://example.com/mailchimp-features/</link>
-      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/mailchimp-features/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;re a blogger, you might use MailChimp to build a subscriber list, and
-Story makes that easy. MailChimp also has the ability to automatically send your
-new content to the list from an RSS feed, and guess what&amp;mdash;Story helps you
-create an RSS feed customized just for that if you like, too.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Creating Beautiful Presentations with Story</title>
-      <link>https://example.com/talks/adirondack/</link>
-      <pubDate>Tue, 08 May 2018 16:00:00 -0500</pubDate>
-
-      <guid>https://example.com/talks/adirondack/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;talk&amp;rdquo; page in Story, which is the permanent homepage for a talk
-you&amp;rsquo;ve given at a specific event. It&amp;rsquo;s designed to showcase your appearance by
-bringing together information about the event, along with your slides and extra
-information like a video of your talk. In this way you can build a portfolio of
-your speaking history.&lt;/p&gt;</description>
-    </item>
-
-    <item>
-      <title>Creating Beautiful Presentations with Story</title>
-      <link>https://example.com/slides/adirondack/</link>
-      <pubDate>Wed, 25 Apr 2018 09:50:00 -0700</pubDate>
-
-      <guid>https://example.com/slides/adirondack/</guid>
-      <description>class: title, smokescreen, shelf, no-footer background-image: url(leo-serrat-533922-unsplash.jpg)
-Creating Beautiful Presentations With Remark, Apron, Adirondack, and Descartes The Story Remark Themes Story offers helper themes for creating beautiful presentations with Remark, using simple Markdown to create slide layouts.
- Apron defines the layouts&amp;rsquo; structure and size. Adirondack adds typography, theme colors, and helpful features. Descartes provides element and image positioning and colors.  Story has a design goal of clean, simple Markdown content.</description>
-    </item>
-
-    <item>
-      <title></title>
-      <link>https://example.com/mailchimp/index.xml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/mailchimp/index.xml</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Search</title>
-      <link>https://example.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://example.com/search/</guid>
-      <description></description>
-    </item>
-
-  </channel>
+&lt;p&gt;blech&amp;hellip;&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Aingoo Large Writing Desk with Drawer 43x22 Rustic Computer Desk Slim Metal MDF Wood Grain Workstation for Brown Farmhouse</title>
+			<link>/crappy-desk/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/crappy-desk/</guid>
+			<description>&lt;p&gt;This desk was terrible. Screw holes did not line up and the wood felt and looked like plastic. If it&amp;rsquo;s too good to be true (like a $100 price tag for a reasonable desk) then it probably is. Sent this pile of junk back the same day we got it.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Arctix Snowpants</title>
+			<link>/snowpants/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/snowpants/</guid>
+			<description>&lt;p&gt;What was I thinking&amp;hellip; Snowpants for $29. I spent a season snowboarding with a wet ass because every time I sat on a chair lift the snow would just soak through. I probably bought an extra $100 in whiskey trying to warm up after being completely soaked. Not worth it! Hate them!&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Being Bald</title>
+			<link>/bald/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/bald/</guid>
+			<description>&lt;p&gt;Okay, don&amp;rsquo;t get me wrong, there are definite advantages to being bald. You don&amp;rsquo;t have to mess around with hair products, you never have a bad hair day, and being shiny is quite nice. That being said, when it rains, you have no hair to absorb the water so the rain just streams into your face. That sucks. Also, in the summer you always have to put suntan lotion on your head (a peeling head is gross). Last, unless you are into comb overs there&amp;rsquo;s the shaving - it&amp;rsquo;s like you have twice the amount of face to deal with. Weighing it all up, and considering that if you have hair you can always shave it, I would have to say that being bald is at least 50% suck-o-meter worthy.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Fishing off of a dock</title>
+			<link>/fishing/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/fishing/</guid>
+			<description>&lt;p&gt;Ok&amp;hellip; first&amp;hellip; worms.. enough said. Second, if you catch anything you have to deal with a slimy stinky fish that will make your hands smell for days. Last, I don&amp;rsquo;t know what it is about fishing off of a dock, but there always seems to be an old person lurking that wants to come over to ask if you&amp;rsquo;ve caught anything which of course turns into what feels like an eternity of painful conversation. Thumbs down to fishing off of a dock.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Phiaton BT 460 Black Wireless Touch Interface Headphones with Microphone</title>
+			<link>/headphones/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/headphones/</guid>
+			<description>&lt;p&gt;I think I got suckered by one of those fake review sites that are put up by people trying to make money through affiliate programs. The wired connection stopped working after a few months, and then the headband snapped. Truthfully, I was kinda glad when they died because the strap had no padding and bothered my bald head. My Bose headphones are much better (and they have padding on the strap YAY!!!!!).&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Sistema Microwave Cookware Easy Eggs</title>
+			<link>/easyeggs/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Baron Schwartz</author>
+			<guid>/easyeggs/</guid>
+			<description>&lt;p&gt;Rates very high on the suck-o-meter. First, getting the eggs to not be gross is near to impossible, and even worse, the stupid thing exploded in the microwave on the 3rd attempt to make eggs. End result, an egg disaster all over the microwave that took an hour to clean. You can make a lot of eggs in an hour which would have been a lot easier than trying to make eggs with this awful device.&lt;/p&gt;</description>
+		</item>
+		
+	</channel>
 </rss>

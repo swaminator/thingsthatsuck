@@ -1,120 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  
   <url>
-    <loc>https://example.com/talks/a-future-talk/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url>
-
-  <url>
-    <loc>https://example.com/about-story/</loc>
+    <loc>/bananas/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/snowpants/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-
-  <url>
-    <loc>https://example.com/features/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-
-  <url>
-    <loc>https://example.com/author-profiles/</loc>
+    <loc>/crappy-desk/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/figures/</loc>
-    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <loc>/snowpants/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/images/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <loc>/bald/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/search-page/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <loc>/fishing/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/math/</loc>
-    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+    <loc>/headphones/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/typography/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <loc>/easyeggs/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
-    <loc>https://example.com/mailchimp-features/</loc>
-    <lastmod>2018-08-18T00:00:00+00:00</lastmod>
-  </url>
-
-  <url>
-    <loc>https://example.com/talks/adirondack/</loc>
-    <lastmod>2018-05-08T16:00:00-05:00</lastmod>
-  </url>
-
-  <url>
-    <loc>https://example.com/slides/adirondack/</loc>
-    <lastmod>2018-04-25T09:50:00-07:00</lastmod>
-  </url>
-
-  <url>
-    <loc>https://example.com/authors/elvis-presley/</loc>
-  </url>
-
-  <url>
-    <loc>https://example.com/mailchimp/index.xml</loc>
-  </url>
-
-  <url>
-    <loc>https://example.com/authors/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
-
+  
   <url>
-    <loc>https://example.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/categories/demo/</loc>
+    <loc>/categories/demo/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
-
+  
   <url>
-    <loc>https://example.com/search/</loc>
-  </url>
-
-  <url>
-    <loc>https://example.com/slides/</loc>
-    <lastmod>2018-04-25T09:50:00-07:00</lastmod>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
-
+  
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
-
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://example.com/talks/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
+  
 </urlset>
