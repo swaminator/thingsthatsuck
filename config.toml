@@ -1,7 +1,7 @@
 
 
 # Site settings
-baseurl = "https://master.d2q2qk5zzqfwxh.amplifyapp.com"
+baseurl = "/"
 title = "Things that Suck"
 theme = "story"
 languageCode = "en-us"
