@@ -1,6 +1,6 @@
 ---
 title: Things that Suck!
-subtitle: "Stuff I've bought, experienced or simply don't like."
+subtitle: "Stuff I've bought, experienced or simply dislike."
 ---
 ![Dave](/img/dave.jpg)
 
